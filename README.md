@@ -11,10 +11,12 @@ I’m a **tech enthusiast** with a wild path. Kicked things off with a psycholog
 - **Tools**: JSON, Ubuntu, Debian, Windows  
 - **Learning**: Rust (taking my time with it)
 - **Biggest flex**: Coded a simple shell and an AirBnB clone—check ‘em below.
-
----
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anonyd0go&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anonyd0go&layout=compact)
+<details>
+  <summary><b>⚡ Github Stats</b></summary>
+    <br />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anonyd0go&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anonyd0go&show_icons=true&theme=radical&hide_border=true&layout=compact"/>
+</details>
 
 ---
 
@@ -51,6 +53,6 @@ I’m deep into **Cybersecurity** and **AI**—especially how they’re revoluti
 ---
 
 ## ✨ **Bonus: A Quote I Vibe With**  
-> “Stay curious, stay learning, and always be ready to throw a punch—literally or metaphorically.” 🥊  
+> “Stay curious, stay learning, and always be ready to throw a punch—literally or metaphorically.” 🥊 (... 😂)
 
 ---
