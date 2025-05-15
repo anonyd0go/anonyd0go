@@ -21,8 +21,8 @@ I’m a **tech enthusiast** with a wild path. Kicked things off with a psycholog
 ---
 
 ## 💻 **Projects I’m Proud Of**  
-- **[holberton-simple_shell](https://github.com/anonyd0go/holberton-simple_shell)**: A bash clone in C. Taught me the nitty-gritty of processes and why memory management is life. Efficiency’s my jam now.  
-- **[holberton-hbnb](https://github.com/anonyd0go/holberton-hbnb)**: My heavyweight champ—an AirBnB clone. Packed with database vibes, ORMs, clean project structure, and network comms. It’s in the process of getting production-ready, and I’m hyped about it.  
+- **[holberton-simple_shell](https://github.com/anonyd0go/holbertonschool-simple_shell)**: A bash clone in C. Taught me the nitty-gritty of processes and why memory management is life. Efficiency’s my jam now.  
+- **[holberton-hbnb](https://github.com/anonyd0go/holbertonschool-hbnb)**: My heavyweight champ—an AirBnB clone. Packed with database vibes, ORMs, clean project structure, and network comms. It’s in the process of getting production-ready, and I’m hyped about it.  
 
 ---
 
