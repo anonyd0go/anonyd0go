@@ -1,15 +1,15 @@
 ## 🎉 **Hey, I’m Anonyd0go**  
 *(a.k.a. the dude who’s lived a few lives and landed in tech)*  
 
-I’m a **tech enthusiast** with a wild path. Kicked things off with a psychology degree, but nah, that wasn’t it. Swapped books for punches and dove into **Mixed Martial Arts**—mostly BJJ and Kickboxing. Needed cash, so I sailed the seas as a **merchant mariner** for three years (yep, real waves, real vibes). Now, I’m all about tech—been studying for a year and a half, chasing that sweet spot where I can learn nonstop and make a living. Knocked out **CS50x**, snagged **Google’s IT and Cybersecurity certs**, and I’m halfway through **Holberton’s fullstack program**. Always been a tech nerd at heart, but now it’s official. Currently obsessed with **Cybersecurity** and **AI**, especially where they vibe with aerospace and IoT. Adventure’s my fuel, and code’s my canvas. 🚀
+I’m a **tech enthusiast** with a wild path. Kicked things off with a psychology degree, but nah, that wasn’t it. Swapped books for punches and dove into **Mixed Martial Arts**—mostly BJJ and Kickboxing. Needed cash, so I sailed the seas as a **merchant mariner** for three years (yep, real waves, real vibes). Now, I’m all about tech—been studying for a year and a half, chasing that sweet spot where I can learn nonstop and make a living. Knocked out **CS50x**, snagged **Google’s IT and Cybersecurity certs**, and I’m two thirds of the way through **Holberton’s fullstack program**. Always been a tech nerd at heart, but now it’s official. Currently obsessed with **Cybersecurity** and **AI**. Adventure’s my fuel, and code’s my canvas. 🚀
 
 ---
 
 ## 🛠 **What I Bring to the Table**  
-- **Languages**: Python, C, SQL (solid stuff); JS, HTML, CSS (just a taste)  
-- **Frameworks**: Flask, SQLAlchemy (ORMs, REST APIs, web app magic)  
-- **Tools**: JSON, Ubuntu, Debian, Windows  
-- **Learning**: Rust (taking my time with it)
+- **Languages**: Python, C, SQL (solid stuff); JS, HTML, CSS (just a taste)
+- **Frameworks**: Flask, SQLAlchemy (ORMs, REST APIs, web app magic)
+- **Tools**: Ubuntu, Debian, Windows
+- **Learning**: Rust and React Native (taking my time with it)
 - **Biggest flex**: Coded a simple shell and an AirBnB clone—check ‘em below.
 <details>
   <summary><b>⚡ Github Stats</b></summary>
