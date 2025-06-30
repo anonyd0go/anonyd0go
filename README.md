@@ -7,7 +7,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
 </p>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cyberddf)
 
 I'm an aspiring Machine Learning Engineer with a strong foundation in software engineering and a passion for building intelligent, data-driven solutions. My unique path through psychology, professional martial arts, and maritime work has given me a distinctive problem-solving mindset, which I now apply to the world of technology. I am passionate about creating secure and robust applications, with a current focus on AI and Cybersecurity.
 
