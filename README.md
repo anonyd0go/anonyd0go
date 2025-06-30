@@ -1,16 +1,35 @@
-## 🎉 **Hey, I’m Anonyd0go**  
-*(a.k.a. the dude who’s lived a few lives and landed in tech)*  
+## **Hey there, I'm Anonyd0go 👋**
+<https://github.com/anony-d0go"><https://img.shields.io/badge/Profile-AnonyD0go-blueviolet?style=for-the-badge&logo=github" alt="GitHub Profile">
+<https://www.linkedin.com/in/your-linkedin-profile"><https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
 
-I’m a **tech enthusiast** with a wild path. Kicked things off with a psychology degree, but nah, that wasn’t it. Swapped books for punches and dove into **Mixed Martial Arts**—mostly BJJ and Kickboxing. Needed cash, so I sailed the seas as a **merchant mariner** for three years (yep, real waves). Now, I’m all about tech—been studying for a year and a half, chasing that sweet spot where I can learn nonstop and make a living. Knocked out **CS50x**, snagged **Google’s IT and Cybersecurity certs**, and I’m two thirds of the way through **Holberton’s fullstack program**. Always been a tech nerd at heart, but now it’s official. Currently obsessed with **Cybersecurity** and **AI**. Adventure’s my fuel, and code’s my canvas. 🚀
+I'm a full-stack software engineer with a passion for cybersecurity and artificial intelligence. My journey into tech has been anything but conventional. I started with a degree in psychology, transitioned to Mixed Martial Artist for a bit, and spent three years as a merchant mariner before dedicating myself to software development.
+
+This diverse background has equipped me with a unique problem-solving perspective and a relentless drive to learn and adapt. Over the past year and a half, I've immersed myself in a rigorous full-stack curriculum at Holberton School, complemented by certifications from Google in IT Support and Cybersecurity.
 
 ---
 
-## 🛠 **What I Bring to the Table**  
-- **Languages**: Python, C, SQL (solid stuff); JS, HTML, CSS (just a taste)
-- **Frameworks**: Flask, SQLAlchemy (ORMs, REST APIs, web app magic)
-- **Tools**: Ubuntu, Debian, Windows
-- **Learning**: Rust and React Native (taking my time with it)
-- **Biggest flex**: Coded a simple shell and an AirBnB clone—check ‘em below.
+<https://www.python.org" target="_blank"> <https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> 
+<https://www.cprogramming.com/" target="_blank"> <https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/> 
+<https://www.mysql.com/" target="_blank"> <https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> 
+<https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> 
+https://flask.palletsprojects.com/" target="_blank"> https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/> 
+https://www.sqlalchemy.org/" target="_blank"> https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/> 
+https://www.ubuntu.com/" target="_blank"> https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/> 
+https://www.debian.org/" target="_blank"> https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/> 
+https://www.rust-lang.org" target="_blank"> https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/> 
+
+---
+
+## **Currenttly working on & Featured Projects**
+### Phishing URL Detector with XAI
+A full-stack AI security tool that classifies URLs as legitimate or phishing with 98.9% accuracy. What makes it unique is its implementation of Explainable AI (XAI) using SHAP, which provides transparent, human-readable explanations for every prediction. It’s not just a black box; it’s a tool for understanding threats.
+- **Technologies Used**: Python, Pandas, Scikit-learn, SHAP, Streamlit, Jupyter Notebooks
+  
+- **[holberton-simple_shell](https://github.com/anonyd0go/holbertonschool-simple_shell)**: A bash clone in C. Taught me the nitty-gritty of processes and why memory management is life.  
+- **[holberton-hbnb](https://github.com/anonyd0go/holbertonschool-hbnb)**: A full-stack clone of AirBnB, built with a Python/Flask RESTful API and a dynamic frontend. A deep dive into database management, user authentication, and system architecture. 
+
+---
+
 <details>
   <summary><b>⚡ Github Stats</b></summary>
     <br />
@@ -20,39 +39,14 @@ I’m a **tech enthusiast** with a wild path. Kicked things off with a psycholog
 
 ---
 
-## 💻 **Projects I’m Proud Of**  
-- **[holberton-simple_shell](https://github.com/anonyd0go/holbertonschool-simple_shell)**: A bash clone in C. Taught me the nitty-gritty of processes and why memory management is life. Efficiency’s my jam now.  
-- **[holberton-hbnb](https://github.com/anonyd0go/holbertonschool-hbnb)**: My heavyweight champ—an AirBnB clone. Packed with database vibes, ORMs, clean project structure, and network comms. It’s in the process of getting production-ready, and I’m hyped about it.  
+## 🥋 **Outside of the Code**
+When I'm not at my keyboard, you can find me on the mats practicing BJJ and Kickboxing, exploring the world through hiking and spearfishing, or immersing myself in new languages—currently focused on Japanese (日本語を勉強しています) and Russian.
 
 ---
 
-## 🥋 **When I’m Not Coding**  
-- **Mixed Martial Arts**: BJJ and Kickboxing are my core, but I’m down for all combat sports. Passion and hobby in one—keeps me sharp.  
-- **Adventures**: Exploring new turf, hiking, spearfishing. If it’s out there, I’m in.  
-- **Languages**: Grinding Japanese (main gig) and Russian. 日本語を勉強しています！  
-- **Music**: Always digging for new genres. If it slaps, I’m vibing.  
-
----
-
-## 🌍 **Let’s Connect**  
+## 🎯 **Current Focus & Future Goals**
+I am actively deepening my expertise in Cybersecurity and Artificial Intelligence, with a particular interest in their applications within the aerospace and tool integrations. I am eager to collaborate on innovative projects in these domains. If you're working on something exciting, let's connect!
 - [GitHub](https://github.com/anonyd0go) (you’re already here)  
 - [LinkedIn](https://www.linkedin.com/in/cyberddf/)  
-
----
-
-## 🎯 **What’s Next?**  
-I’m deep into **Cybersecurity** and **AI**—especially how they’re revolutionizing aerospace and IoT. If that’s your thing too, hit me up. Always down to collab on something fresh.  
-
----
-
-## 🎲 **Surprise Section: Fun Facts**  
-- Sailed the seas as a merchant mariner. 🌊  
-- Spearfishing fiend—catching dinner’s my kind of thrill.  
-- Once thought I’d analyze minds, but code (and punches) stole my soul.  
-
----
-
-## ✨ **Bonus: A Quote I Vibe With**  
-> “Stay curious, stay learning, and always be ready to throw a punch—literally or metaphorically.” 🥊 (... 😂)
 
 ---
