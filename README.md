@@ -42,10 +42,9 @@ I'm an aspiring Machine Learning Engineer with a strong foundation in software e
 ---
 
 ## 🚀 **Currently Working On**
-### Phishing URL Detector with XAI
+### [Phishing URL Detector with XAI](https://github.com/anonyd0go/aegis_lens)
 - I am developing a full-stack AI security tool to classify URLs as phishing or legitimate with 98.9% accuracy. The project's core focus is on Explainable AI (XAI), using SHAP to make the model's decisions transparent and interpretable for users.
 - **Tech Stack**: Python, Scikit-learn, SHAP, Pandas, Streamlit.
-- *(Note: This is a private project currently under development.)*
 
 ---
 * **Atlas Locale Finder**
