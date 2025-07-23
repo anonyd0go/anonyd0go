@@ -1,4 +1,4 @@
-## **Hey there, I'm Anonyd0go 👋**
+## **Hey there, I'm Anonyd0go**
 <p align="center">
   <a href="https://github.com/anonyd0go">
     <img src="https://img.shields.io/badge/Profile-AnonyD0go-blueviolet?style=for-the-badge&logo=github" alt="GitHub Profile">
@@ -11,7 +11,7 @@
 I'm an aspiring Machine Learning Engineer with a strong foundation in software engineering and a passion for building intelligent, data-driven solutions. My unique path through psychology, professional martial arts, and maritime work has given me a distinctive problem-solving mindset, which I now apply to the world of technology. I am passionate about creating secure and robust applications, with a current focus on AI and Cybersecurity.
 
 ---
-### 🛠️ Some of My Tech Stack
+### Some of My Tech Stack
 **Machine Learning & Data Science:**
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -41,7 +41,7 @@ I'm an aspiring Machine Learning Engineer with a strong foundation in software e
 
 ---
 
-## 🚀 **Currently Working On**
+## **Currently Working On**
 ### [Phishing URL Detector with XAI](https://github.com/anonyd0go/aegis_lens)
 - I am developing a full-stack AI security tool to classify URLs as phishing or legitimate with 98.9% accuracy. The project's core focus is on Explainable AI (XAI), using SHAP to make the model's decisions transparent and interpretable for users.
 - **Tech Stack**: Python, Scikit-learn, SHAP, Pandas, Streamlit.
@@ -60,7 +60,7 @@ I'm an aspiring Machine Learning Engineer with a strong foundation in software e
 
 ---
 
-### ⚡ Github Stats
+### Github Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anonyd0go&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Anonyd0go's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anonyd0go&show_icons=true&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
@@ -68,12 +68,12 @@ I'm an aspiring Machine Learning Engineer with a strong foundation in software e
 
 ---
 
-## 🥋 **Outside of the Code**
+## **Outside of the Code**
 When I step away from the keyboard, I'm usually on the mats training in BJJ and Kickboxing, exploring new places, or continuing my language studies in Japanese and Russian
 
 ---
 
-## 🎯 **Current Focus & Future Goals**
+## **Current Focus & Future Goals**
 I am actively deepening my expertise in **Cybersecurity** and **Artificial Intelligence**, with a particular interest in their applications within the aerospace and tool integrations. I am eager to collaborate on innovative projects in these domains. If you're working on something exciting, let's connect!
 - [GitHub](https://github.com/anonyd0go) (you’re already here)  
 - [LinkedIn](https://www.linkedin.com/in/cyberddf/)  
